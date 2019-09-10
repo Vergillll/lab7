@@ -1,1 +1,7 @@
-
+A = str(input())
+L = len(A)
+A1 = int(A)
+if L==2 and A1%2==0:
+    print("True")
+else:
+    print("False")
