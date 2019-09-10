@@ -1,0 +1,9 @@
+A = str(input())
+A1 = A[0]
+A2 = A[1]
+A3 = A[2]
+A4 = A[3]
+if (A[0]+A[1]) == (A[3]+A[2]):
+    print("True")
+else:
+    print("False")
