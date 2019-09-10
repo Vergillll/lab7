@@ -1,0 +1,8 @@
+A = str(input())
+A1 = int(A[0])
+A2 = int(A[1])
+A3 = int(A[2])
+if A1<A2<A3:
+    print("True")
+else:
+    print("False")
